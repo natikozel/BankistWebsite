@@ -10,11 +10,11 @@ A Website for the Bankist App
 
 
 **Features:**
-_Advanced DOM Manipulation_
-_Lazy loading & Blurring_
-_Hovering effects_
-_Intersection observer usage_
-_Sliders_
+- Advanced DOM Manipulation
+- Lazy loading & Blurring
+- Hovering effects
+- Intersection observer usage
+- Sliders
 
 
 **Technologies**:
